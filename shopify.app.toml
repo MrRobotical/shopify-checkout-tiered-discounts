@@ -3,7 +3,7 @@
 client_id = "d5b9279a07f5c1ea2c41a5fba97dc8d3"
 name = "checkout-product-discounts"
 handle = "checkout-product-discounts"
-application_url = "https://naples-howto-nuke-diy.trycloudflare.com"
+application_url = "https://prominent-casey-clinton-nights.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_discounts,write_products"
 
 [auth]
 redirect_urls = [
-  "https://naples-howto-nuke-diy.trycloudflare.com/auth/callback",
-  "https://naples-howto-nuke-diy.trycloudflare.com/auth/shopify/callback",
-  "https://naples-howto-nuke-diy.trycloudflare.com/api/auth/callback"
+  "https://prominent-casey-clinton-nights.trycloudflare.com/auth/callback",
+  "https://prominent-casey-clinton-nights.trycloudflare.com/auth/shopify/callback",
+  "https://prominent-casey-clinton-nights.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
